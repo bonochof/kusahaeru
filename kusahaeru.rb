@@ -1,0 +1,1 @@
+rand(100).times{print 'w'}

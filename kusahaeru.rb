@@ -1,1 +1,1 @@
-rand(100).times{print 'w'}
+print 'w' * rand(100)
